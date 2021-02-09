@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+Assets/FourEvilDragonsHP/SRP/HP_HD.zip filter=lfs diff=lfs merge=lfs -text
+Assets/FourEvilDragonsHP/SRP/HP_LW.zip filter=lfs diff=lfs merge=lfs -text
